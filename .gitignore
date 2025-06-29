@@ -1,0 +1,10 @@
+# caches and checkpoints
+outputs/
+hf_cache/
+__pycache__/
+*.idx
+*.log
+.venv/
+retriever/passages*
+**/passages*
+passages*
